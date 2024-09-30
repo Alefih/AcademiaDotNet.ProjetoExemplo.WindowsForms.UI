@@ -1,0 +1,7 @@
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\obj\Debug\CursoCSharp.ConsoleApplication.List.csproj.AssemblyReference.cache
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\obj\Debug\CursoCSharp.ConsoleApplication.List.csproj.CoreCompileInputs.cache
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\bin\Debug\CursoCSharp.ConsoleApplication.List.exe.config
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\bin\Debug\CursoCSharp.ConsoleApplication.List.exe
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\bin\Debug\CursoCSharp.ConsoleApplication.List.pdb
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\obj\Debug\CursoCSharp.ConsoleApplication.List.exe
+D:\Projeto VídeoAula\CursoCSharp.ConsoleApplication.List\obj\Debug\CursoCSharp.ConsoleApplication.List.pdb
